@@ -1,6 +1,3 @@
-# second-demo
-// this is deit by using html basic tages 
-//  commit means changes 
-// md means markdown 
+# second-demo 
 This is my project. <br>
 Author-Anonymous
